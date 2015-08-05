@@ -1,0 +1,31 @@
+c:\users\oasixftw\documents\visual studio 2013\Projects\ToolAW\ToolAW\bin\Debug\MetroFramework.dll
+c:\users\oasixftw\documents\visual studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.csprojResolveAssemblyReference.cache
+c:\users\oasixftw\documents\visual studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.Form1.resources
+c:\users\oasixftw\documents\visual studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.Properties.Resources.resources
+c:\users\oasixftw\documents\visual studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.csproj.GenerateResource.Cache
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.DownloadUpdate.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\bin\Debug\LogIn Theme Dll By xVenoxi.dll
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\bin\Debug\PS3Lib.dll
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\bin\Debug\PS3TMAPI_NET.dll
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.Tool_AW.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\obj\Debug\ToolAW.PubLauncher.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe.config
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.pdb
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\obj\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\ToolAW\ToolAW\obj\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.pdb
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe.config
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.pdb
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\ToolAW.csprojResolveAssemblyReference.cache
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\ToolAW.DownloadUpdate.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\ToolAW.Properties.Resources.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\ToolAW.PubLauncher.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\ToolAW.Tool_AW.resources
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\obj\Debug\ToolAW.csproj.GenerateResource.Cache
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.pdb
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\ToolAW\ToolAW\bin\Debug\MetroFramework.dll
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\Tool AW - Source By OasixFTW\ToolAW\bin\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe.config
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\Tool AW - Source By OasixFTW\ToolAW\obj\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.exe
+C:\Users\OasixFTW\Documents\Visual Studio 2013\Projects\Sources\Tool AW - Source By OasixFTW\ToolAW\obj\Debug\Tool Advanced Warfare 1.4 -By OasixFTW.pdb
